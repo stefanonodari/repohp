@@ -1,0 +1,3 @@
+[submodule "repohp_submodule"]
+	path = repohp_submodule
+	url = https://github.com/stefanonodari/repohp_submodule
