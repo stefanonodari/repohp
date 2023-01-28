@@ -16,7 +16,7 @@ def send_email(subject, body, sender, recipients, password):
     smtp_server.sendmail(sender, recipients, msg.as_string())
     smtp_server.quit()
 subject = "Email Subject"
-body = "terzo commit  This is the body of the text message"
+body = "quarto commit  This is the body of the text message"
 sender = "testdevopsnodari@gmail.com"
 recipients = ["snodari@yahoo.com"]
 password = "rbvgxwmqicsatzrp"
